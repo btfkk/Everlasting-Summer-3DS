@@ -4,7 +4,8 @@
 
 **Версия:** beta 0.01 · **Автор порта:** btfkk
 
-<img width="1000" height="886" alt="676584763-2f706c85-0352-4372-ad03-aa49de000642(1)" src="https://github.com/user-attachments/assets/2cc08fe2-5493-4a61-93f5-d14afd91d350" />
+<p align="center"><img src="https://github.com/user-attachments/assets/db385edd-e3f7-4e37-a16f-852980ead569" alt="Everlasting Summer 3DS" /></p>
+
 
 
 ## Что есть
