@@ -4,7 +4,8 @@
 
 **Версия:** beta 0.01 · **Автор порта:** btfkk
 
-<img width="1900" height="1684" alt="i(2)" src="https://github.com/user-attachments/assets/2f706c85-0352-4372-ad03-aa49de000642" />
+<img width="1000" height="886" alt="676584763-2f706c85-0352-4372-ad03-aa49de000642(1)" src="https://github.com/user-attachments/assets/2cc08fe2-5493-4a61-93f5-d14afd91d350" />
+
 
 ## Что есть
 
@@ -27,10 +28,10 @@
 
 ## Что нужно
 
-- **3DS / 2DS / New 3DS / New 2DS** с кастомной прошивкой **Luma3DS**. Если её ещё нет, есть гайд: [3ds.hacks.guide](https://3ds.hacks.guide/ru_RU/).
+- **3DS / 2DS / New 3DS / New 2DS** с кастомной прошивкой **Luma3DS**
 - **FBI** (обычно ставится вместе с прошивкой по гайду).
 - SD-карта, на которой свободно около 1 ГБ.
-- Файл **`es3ds.cia`** из релиза.
+- Файл **`Everlasting Summer 3DS.cia`** из релиза.
 
 Звук работает сразу, ничего дополнительно ставить не нужно.
 
